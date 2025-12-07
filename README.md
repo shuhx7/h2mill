@@ -3,6 +3,10 @@ Hydrogen at &lt; $1/kg* — produced directly from grid potential with PEM co-pr
 
 About the Innovation
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79acdcf1-d44d-4706-9c9a-f2af5424c008" />
+
+
+
 H2Mill introduces a breakthrough in hydrogen production by placing PEM electrolyzers inline between the grid and industrial loads. Unlike conventional systems that require extra electricity, our technology harvests grid potential that already flows to steel plants, cement kilns, fertilizer factories, refineries, and more. The result: pure hydrogen at costs below $1/kg* — with no additional grid demand.
 
 Key Advantages
