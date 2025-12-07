@@ -37,3 +37,13 @@ Hydrogen fueling for heavy trucks, buses, and ships.
 
 Energy Storage
 Hydrogen as long-duration, grid-scale storage.
+
+
+
+
+Get in Touch
+Interested in partnerships, investment, or technical details?
+
+*cost<1$/kg - is not tested by accredited labs.
+
+Contact us at info@h2mill.com or +15135259935 (Shukhrat Ismailov)
